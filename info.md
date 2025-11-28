@@ -10,7 +10,7 @@
 * [Meetup](#)
 
 ### Code Repository
-* [repo](#)
+* [github](https://github.com/ellipse2v/SecOpsTM)
 
 ### Change Log
 * [changes](#)
