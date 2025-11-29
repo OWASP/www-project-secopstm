@@ -1,9 +1,9 @@
 ---
-title: Threat model
+title: Models
 layout:  null
 tab: true
 order: 5
-tags: tm-tag
+tags: models-tag
 ---
 
 ## Threat Model DSL & Examples (`threatModel_Template/threat_model.md`)
