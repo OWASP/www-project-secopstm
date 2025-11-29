@@ -1,5 +1,6 @@
 ---
-title: GUI
+title: Gui
+displaytext: GUI
 layout:  null
 tab: true
 order: 4

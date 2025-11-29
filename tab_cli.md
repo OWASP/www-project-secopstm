@@ -1,5 +1,6 @@
 ---
-title: CLI
+title: Cli
+displaytext: CLI
 layout:  null
 tab: true
 order: 3

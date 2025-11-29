@@ -5,7 +5,7 @@ title: OWASP SecOpsTM
 tags: example-tag
 level: 2
 type: code
-pitch: A very brief, one-line description of your project
+pitch: A DevSecOps tool for generating and automating cyber-defense from Markdown threat models using Python and Ansible.
 
 ---
 

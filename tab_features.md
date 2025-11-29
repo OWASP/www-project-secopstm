@@ -3,7 +3,7 @@ title: Features
 layout:  null
 tab: true
 order: 2
-tags: Features-tag
+tags: features-tag
 ---
 
 ## Features
