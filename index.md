@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP SecOpsTM
-tags: example-tag
+tags: SecOpsTM-tag
 level: 2
 type: code
 pitch: A DevSecOps tool for generating and automating cyber-defense from Markdown threat models using Python and Ansible.

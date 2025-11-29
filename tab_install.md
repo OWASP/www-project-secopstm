@@ -3,7 +3,7 @@ title: Install
 layout:  null
 tab: true
 order: 1
-tags: install-tag
+tags: SecOpsTM-tag
 ---
 
 ## Quick Start / Installation

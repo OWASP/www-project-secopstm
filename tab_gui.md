@@ -4,7 +4,7 @@ displaytext: GUI
 layout:  null
 tab: true
 order: 4
-tags: gui-tag
+tags: SecOpsTM-tag
 ---
 
 ### Web-based Graphical User Interface (GUI) Mode (Optional)

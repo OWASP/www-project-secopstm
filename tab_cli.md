@@ -4,7 +4,7 @@ displaytext: CLI
 layout:  null
 tab: true
 order: 3
-tags: cli-tag
+tags: SecOpsTM-tag
 ---
 
 ### 1. Command Line Interface (CLI) Mode

@@ -3,7 +3,7 @@ title: Models
 layout:  null
 tab: true
 order: 5
-tags: models-tag
+tags: SecOpsTM-tag
 ---
 
 ## Threat Model DSL & Examples (`threatModel_Template/threat_model.md`)
