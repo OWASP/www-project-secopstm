@@ -27,3 +27,6 @@ Visualize your threat landscape with ATT&CK Navigator and Attack Flow diagrams.
 It supports custom threat rules and configurable severity calculations.   
 Built on [PyTM](https://github.com/OWASP/pytm), it provides a highly extensible and developer-friendly platform.   
 This framework streamlines security analysis from design to deployment
+
+
+![Loading a template](assets/images//gui_example.gif)   

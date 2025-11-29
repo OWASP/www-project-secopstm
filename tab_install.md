@@ -11,7 +11,8 @@ tags: SecOpsTM-tag
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/ellipse2v/SecOpsTM.git
-        cd SecOpsTM    ```
+        cd SecOpsTM
+    ```
 
 2.  **Install Python dependencies:**
     ```bash
